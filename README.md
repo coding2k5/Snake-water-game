@@ -1,4 +1,4 @@
-# Snake-water-game
+# Snake-water-gun game
 
 let s = snake, w = water and g = gun in comments.
 Then use while loop and import random.
