@@ -3,10 +3,10 @@
 let s = snake, w = water and g = gun in comments.
 Then use while loop and import random.
 Take a variable named computer which will choice random from list of 0,1,-1.
-Take another variable named youstr to input choice from user. Note - input must be s,w or g
-Take a dictionary named youdict assign s to 0, w to 1 and g to -1
+Take another variable named youstr to input choice from user. Note - input must be s,w or g.
+Take a dictionary named youdict assign s to 0, w to 1 and g to -1.
 Take another dictionary named reversedict to reverse the input dictionary assign 0 to snake, 1 to water and -1 to gun.
-Take a new variable named you which is equals to youdict of list youstr
+Take a new variable named you which is equals to youdict of list youstr.
 Print your's choice and computer's choice.
 Now make the logic of the game.
 If computer choose same as you then its draw. Otherwise use nested if else inside else.
