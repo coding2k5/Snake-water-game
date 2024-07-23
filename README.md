@@ -1,4 +1,5 @@
 # Snake-water-gun game
+Its a game in which you will play with computer. One input is given by you and other will be given by computer.
 
 let s = snake, w = water and g = gun in comments.
 Then use while loop and import random.
